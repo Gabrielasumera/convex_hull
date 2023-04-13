@@ -6,7 +6,7 @@ zostało z pomocą biblioteki SFML.
 
 Przykładowy zestaw danych wejściowych:
 
-<src="input.png">
+<img src="input.png">
 
 
 
