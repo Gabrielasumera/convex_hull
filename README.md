@@ -20,5 +20,5 @@ Konsola:
 Okno GUI:
 
 
-<img src="hull.png">
+<img src="hull1.png">
 
