@@ -4,7 +4,9 @@ Do obliczenia punktów należących do otoczki wykorzystany został algorytm Gra
 zostało z pomocą biblioteki SFML.
 
 
+Przykładowy zestaw danych wejściowych:
 
+<src="input.png">
 
 
 
