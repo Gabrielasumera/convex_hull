@@ -14,7 +14,7 @@ Wyniki kompilacji programu:
 Konsola:
 
 
-<img src="points.png">
+<img src="point.png">
 
 
 Okno GUI:
