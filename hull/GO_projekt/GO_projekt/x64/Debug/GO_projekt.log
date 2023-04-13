@@ -1,0 +1,32 @@
+﻿  main.cpp
+C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\GO_projekt\main.cpp(250,56): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\GO_projekt\main.cpp(250,47): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\GO_projekt\main.cpp(261,43): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\GO_projekt\main.cpp(261,34): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\GO_projekt\main.cpp(261,78): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\GO_projekt\main.cpp(261,65): warning C4244: "argument": konwersja z "int" do "T", możliwa utrata danych
+          with
+          [
+              T=float
+          ]
+  GO_projekt.vcxproj -> C:\Users\Gabriela\OneDrive\Pulpit\IOrok1+2\Go\hull\GO_projekt\x64\Debug\GO_projekt.exe
